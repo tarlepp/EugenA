@@ -2,7 +2,7 @@
   "name": "ea/trytdd1",
   "description": "description",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "mit",
   "authors": [
     {
       "name": "EA",
